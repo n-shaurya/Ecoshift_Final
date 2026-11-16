@@ -1,0 +1,150 @@
+{
+ "type": "FeatureCollection",
+ "name": "California sample fields, Sacramento-San Joaquin Delta",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Island south",
+    "crop": "corn"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -121.5515,
+       38.155
+      ],
+      [
+       -121.5435,
+       38.155
+      ],
+      [
+       -121.5435,
+       38.1605
+      ],
+      [
+       -121.5515,
+       38.1605
+      ],
+      [
+       -121.5515,
+       38.155
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Island middle",
+    "crop": "corn"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -121.5515,
+       38.1674
+      ],
+      [
+       -121.5435,
+       38.1674
+      ],
+      [
+       -121.5435,
+       38.1729
+      ],
+      [
+       -121.5515,
+       38.1729
+      ],
+      [
+       -121.5515,
+       38.1674
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Island north",
+    "crop": "soybean"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -121.5515,
+       38.1798
+      ],
+      [
+       -121.5435,
+       38.1798
+      ],
+      [
+       -121.5435,
+       38.1848
+      ],
+      [
+       -121.5515,
+       38.1848
+      ],
+      [
+       -121.5515,
+       38.1798
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Levee forty",
+    "crop": "corn"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -121.5175,
+       38.1798
+      ],
+      [
+       -121.51,
+       38.1798
+      ],
+      [
+       -121.51,
+       38.183
+      ],
+      [
+       -121.5135,
+       38.183
+      ],
+      [
+       -121.5135,
+       38.1846
+      ],
+      [
+       -121.5175,
+       38.1846
+      ],
+      [
+       -121.5175,
+       38.1798
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
